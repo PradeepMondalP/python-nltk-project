@@ -1,0 +1,44 @@
+
+ .......................................................................................................................
+ .......................................................................................................................
+                            Requirements
+
+  1) install ntlk ( all packages )  and  numpy
+
+
+ .......................................................................................................................
+ .......................................................................................................................
+   commands  to install nltk through command prompt
+  1)   python should be installed (pip install python )
+  2)   pip install numpy
+  3)   pip install nltk
+
+  4)  python
+  5) >> import nltk
+  6) >> nltk.download()
+
+  7) a window appears , to select which package need to be download
+  8) select "all" under "identifier" coloum and download it
+
+  9) pip3 install fuzzywuzzy
+
+  10) pip3 install python-Levenshtein
+
+  11) if any error during step 9 or 10  like ( Microsoft Visual C++ 14.0 is required)
+       download visual studio installer .exe  file from the respective site
+       and then install the package  "Desktop development with C++
+
+       adding the visual studio installer.exe file in the git
+
+  12 )  try again  step  9 , 10
+
+
+ .......................................................................................................................
+ .......................................................................................................................
+  how xml file needs to be exported
+  1) go to export page for the particular testsuite
+  2 *** )   select Procedure - Test setup and procedure  ( should be present under Display section )
+  3) file format :-   formatted human Readable
+  4) file type   :-    xml
+  5) Export
+
